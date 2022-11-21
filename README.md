@@ -1,2 +1,2 @@
 # Rainoh-demo
-just like ademo
+just like a demo
